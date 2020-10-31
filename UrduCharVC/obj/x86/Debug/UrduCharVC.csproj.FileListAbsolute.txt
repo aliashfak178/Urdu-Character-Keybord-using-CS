@@ -1,0 +1,7 @@
+D:\ASHFAQUE\COMPUTERS\softwere\C#\UrduCharVC\UrduCharVC\bin\Debug\UrduCharVC.exe
+D:\ASHFAQUE\COMPUTERS\softwere\C#\UrduCharVC\UrduCharVC\bin\Debug\UrduCharVC.pdb
+D:\ASHFAQUE\COMPUTERS\softwere\C#\UrduCharVC\UrduCharVC\obj\x86\Debug\UrduCharVC.Properties.Resources.resources
+D:\ASHFAQUE\COMPUTERS\softwere\C#\UrduCharVC\UrduCharVC\obj\x86\Debug\UrduCharVC.csproj.GenerateResource.Cache
+D:\ASHFAQUE\COMPUTERS\softwere\C#\UrduCharVC\UrduCharVC\obj\x86\Debug\UrduCharVC.exe
+D:\ASHFAQUE\COMPUTERS\softwere\C#\UrduCharVC\UrduCharVC\obj\x86\Debug\UrduCharVC.pdb
+D:\ASHFAQUE\COMPUTERS\softwere\C#\UrduCharVC\UrduCharVC\obj\x86\Debug\UrduCharVC.MainForm.resources
